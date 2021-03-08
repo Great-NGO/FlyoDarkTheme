@@ -303,7 +303,7 @@ footer .flex {
 }
 
 .footerSection p {
-    margin: 0 0 0 14px;
+    margin: 0 0 0 15px;
 }
 
 .footerSection ul {
@@ -336,6 +336,9 @@ footer .flex {
     margin-left: 10px;
 }
 
+
+/* Coder Information */
+
 .attribution {
     font-size: 11px;
     text-align: center;
@@ -344,6 +347,9 @@ footer .flex {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+
+/* End of Coder Information */
 
 
 /* ADDITIONAL RESPONSIVE STYLING WITH MEDIA QUERIES AND FLEXBOX */
